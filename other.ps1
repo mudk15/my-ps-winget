@@ -7,3 +7,4 @@ winget install --id=CPUID.HWMonitor  -e
 winget install --id=Flameshot.Flameshot  -e
 winget install --id=Telegram.TelegramDesktop  -e
 winget install --id=Microsoft.PowerShell  -e
+winget install --id=Oracle.JavaRuntimeEnvironment  -e
