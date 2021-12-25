@@ -1,5 +1,4 @@
 winget install --id=VideoLAN.VLC  -e
-winget install --id=jely2002.youtube-dl-gui  -e
 winget install --id=7zip.7zip  -e
 winget install --id=CPUID.CPU-Z  -e
 winget install --id=CrystalDewWorld.CrystalDiskInfo  -e
